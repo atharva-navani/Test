@@ -1,0 +1,15 @@
+
+langchain
+pymysql
+langchain_openai
+langchain_community
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-core
+langchain-community
+openai
+pymysql
+SQLAlchemy
+spacy
